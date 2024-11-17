@@ -1,8 +1,5 @@
 -- if want to load common files from stag
 
---@AUTO_COPY.DLINK.DLINK_STG/customer-1.xlsx
---@ext_csv_stage/Customer_Invc.csv file_format = csv_format;
-
 -- Create databae and schema
 Create or replace Database Auto_Copy;
 create or replace schema Dlink ;
